@@ -1,16 +1,22 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil do Matheus-Stuling
+ <div>
+   <a href="https://github.com/Matheus-Stuling">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Stuling&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Stuling&layout=compact&langs_count=6&theme=tokyonight"/>
 
-<!--
-**Matheus-Stuling/Matheus-Stuling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<div style="display: inline_block"><br>
 
-Here are some ideas to get you started:
+</div>
+ 
+ <br>
+ 
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+ 
+<div> 
+ 
+  <a href="https://instagram.com/
+matheusbatistaborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  ![Snake animation](https://github.com/Matheus-Stuling/Matheus-Stuling/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
